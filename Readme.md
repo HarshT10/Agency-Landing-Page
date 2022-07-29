@@ -2,6 +2,9 @@
 
 - This project is a landing page for agencies. 
 
+[Netlify](https://agency-landing-page-harshthakkar1011.netlify.app)
+
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
 ---
 
