@@ -1,6 +1,6 @@
 # **Project 14 - Agency Landing Page**
 
-- This project is a landing page for agencies. 
+- This project is a landing page for agencies. It is Mobile Responsive.
 
 [Netlify](https://agency-landing-page-harshcodes.netlify.app)
 
